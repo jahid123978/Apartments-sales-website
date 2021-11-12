@@ -1,0 +1,40 @@
+.home{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 4px 20px;
+    border-radius: 3px;
+    background-color:azure;
+    margin: 10px;
+}
+.manageOrder{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 4px 20px;
+    border-radius: 3px;
+    background-color:azure;
+    margin: 10px;
+}
+.products{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 4px 20px;
+    border-radius: 3px;
+    background-color:azure;
+    margin: 10px;
+}
+.admin{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 4px 20px;
+    border-radius: 3px;
+    background-color:azure;
+    margin: 10px;
+}
+.add{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 4px 20px;
+    border-radius: 3px;
+    background-color:azure;
+    margin: 10px; 
+}
